@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaughngx4
 - 👀 I’m interested in cyber security and fullstack/web development
 - 🌱 I’m currently learning anything I come accross in a project!
-- 💞️ I’m looking to collaborate on modular enterprise management software(currently closed source).
+- 💞️ I’m looking to collaborate on any of my public projects.
 - 📫 You can reach me at vaughng@protonmail.ch
 
 <!---
