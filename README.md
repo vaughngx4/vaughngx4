@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaughngx4
+- 👋 Hi, I’m @vaughngx4. Owner & CEO of SiNtelli Technologies (Pty. Ltd.)
 - 👀 I’m interested in cyber security and fullstack/web development
 - 🌱 I’m currently learning anything I come accross in a project!
 - 💞️ I’m looking to collaborate on any of my public projects.
