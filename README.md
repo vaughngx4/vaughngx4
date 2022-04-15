@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and fullstack/web development
 - 🌱 I’m currently learning anything I come accross in a project!
 - 💞️ I’m looking to collaborate on any of my public projects.
-- 📫 You can reach me at vaughng@protonmail.ch
+- 📫 You can reach me at vaughng@pm.me
 
 <!---
 vaughngx4/vaughngx4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
